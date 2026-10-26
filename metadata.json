@@ -1,0 +1,6 @@
+{
+  "name": "Touch-Free Computer Controller",
+  "description": "Control your Windows computer using hand gestures and natural-language voice commands with MediaPipe, OpenCV, and rule-based NLP.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
